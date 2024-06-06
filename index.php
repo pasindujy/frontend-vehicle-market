@@ -9,7 +9,7 @@
         echo $URI;
         ?>
          <div>
-             <img src="banner.jpg" alt="banner" />
+             <img src="banner.png" alt="banner" />
          </div>
     </body>
 </html>
